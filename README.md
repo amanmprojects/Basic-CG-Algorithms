@@ -1,8 +1,8 @@
 # Basic-CG-Algorithms
 This repository contains a collection of basic computer graphics algorithms implemented in C. These fundamental algorithms are commonly used in graphics programming and include:
 
-* Digital Differential Analyzer (DDA) Line Algorithm
-* Bresenham's Line Algorithm
+* Digital Differential Analyzer (DDA) Line Drawing Algorithm
+* Bresenham's Line Drawing Algorithm
 * Midpoint Circle Algorithm
 * Midpoint Ellipse Algorithm
 * And more...
